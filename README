@@ -1,0 +1,6 @@
+研究生時間寶貴
+
+1. 打開db.xlsx，save to csv
+2. ./gen_db.py
+3. http://ethics.nctu.edu.tw/exam/ 將網頁source code存成`exam.html`
+3. run save_student_time.ipynb 
